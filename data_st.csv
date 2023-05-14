@@ -1,0 +1,55 @@
+store_nbr,city,state,type,cluster,transactions
+1,Quito,Pichincha,D,13,2553963
+2,Quito,Pichincha,D,13,3219901
+3,Quito,Pichincha,D,8,5366350
+4,Quito,Pichincha,D,9,2519007
+5,Santo Domingo,Santo Domingo de los Tsachilas,D,4,2347877
+6,Quito,Pichincha,D,13,3065896
+7,Quito,Pichincha,D,8,2995993
+8,Quito,Pichincha,D,8,4637971
+9,Quito,Pichincha,B,6,3516162
+10,Quito,Pichincha,C,15,1652493
+11,Cayambe,Pichincha,B,6,3972488
+12,Latacunga,Cotopaxi,C,15,1958852
+13,Latacunga,Cotopaxi,C,15,1572504
+14,Riobamba,Chimborazo,C,7,2287850
+15,Ibarra,Imbabura,C,15,2209898
+16,Santo Domingo,Santo Domingo de los Tsachilas,C,3,1464498
+17,Quito,Pichincha,C,12,2295485
+18,Quito,Pichincha,B,16,2071278
+19,Guaranda,Bolivar,C,15,2107489
+20,Quito,Pichincha,B,6,1422539
+21,Santo Domingo,Santo Domingo de los Tsachilas,B,6,842891
+22,Puyo,Pastaza,C,7,504156
+23,Ambato,Tungurahua,D,9,1788171
+24,Guayaquil,Guayas,D,1,3568206
+25,Salinas,Santa Elena,D,1,1520362
+26,Guayaquil,Guayas,D,10,1065059
+27,Daule,Guayas,D,1,2485687
+28,Guayaquil,Guayas,E,10,1957594
+29,Guayaquil,Guayas,E,10,981448
+30,Guayaquil,Guayas,C,3,1171130
+31,Babahoyo,Los Rios,B,10,2306044
+32,Guayaquil,Guayas,C,3,1065226
+33,Quevedo,Los Rios,C,3,1743003
+34,Guayaquil,Guayas,B,6,3864018
+35,Playas,Guayas,C,3,1123889
+36,Libertad,Guayas,E,10,1738129
+37,Cuenca,Azuay,D,2,2481719
+38,Loja,Loja,D,4,2867052
+39,Cuenca,Azuay,B,6,2389482
+40,Machala,El Oro,C,3,2181195
+41,Machala,El Oro,D,4,1764146
+42,Cuenca,Azuay,D,2,802646
+43,Esmeraldas,Esmeraldas,E,10,2182356
+44,Quito,Pichincha,A,5,7273093
+45,Quito,Pichincha,A,11,6201115
+46,Quito,Pichincha,A,14,5990113
+47,Quito,Pichincha,A,14,6535810
+48,Quito,Pichincha,A,14,5107785
+49,Quito,Pichincha,A,11,4574103
+50,Ambato,Tungurahua,A,14,4384444
+51,Guayaquil,Guayas,A,17,2873614
+52,Manta,Manabi,A,11,275393
+53,Manta,Manabi,D,13,1180082
+54,El Carmen,Manabi,C,3,1451290
